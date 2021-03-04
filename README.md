@@ -1,4 +1,4 @@
 # ARTest
-WebARTest Server<p>
+WebARTest Server</p>
 
 Learning WebARTest Server
